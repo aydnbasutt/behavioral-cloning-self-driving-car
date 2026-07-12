@@ -1,0 +1,12 @@
+# Sanal ortam
+venv/
+
+# Toplanan veri (görüntüler + log) - çok büyük, repoya ait değil
+data/
+
+# Python önbellek dosyaları
+__pycache__/
+*.pyc
+
+# VS Code ayarları (isteğe bağlı, genelde eklenmez)
+.vscode/

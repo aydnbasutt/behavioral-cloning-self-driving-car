@@ -1,6 +1,6 @@
 # Behavioral Cloning - Self Driving Car
 
-![Demo](assets/demo.png)
+![Demo](assets/demo.jpg)
 
 Bu proje, Udacity'nin Self-Driving Car simülatöründe toplanan sürüş verisiyle
 bir CNN (Convolutional Neural Network) eğitip, aracı otonom modda süren bir

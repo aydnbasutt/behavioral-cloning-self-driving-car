@@ -80,6 +80,7 @@ Ham veri, çoğunlukla "düz git" (direksiyon ≈ 0) örneklerinden oluşuyordu.
 - NumPy / Pandas / scikit-learn
 
 
+
 [ENG]
 # Behavioral Cloning - Self Driving Car
 
@@ -164,3 +165,4 @@ To balance this out:
 - TensorFlow 2.10 (GPU-enabled)
 - OpenCV
 - NumPy / Pandas / scikit-learn
+
